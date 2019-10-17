@@ -5,8 +5,8 @@
  Instructions:
  Downloading project, compile and use dependency in your pom.
  
-<dependency>
-	<groupId>com.quarktech.mcgregor</groupId>
-	<artifactId>mcgregor-io</artifactId>
-	<version>1.0.0</version>
-</dependency>
+	<dependency>
+		<groupId>com.quarktech.mcgregor</groupId>
+		<artifactId>mcgregor-io</artifactId>
+		<version>1.0.0</version>
+	</dependency>
